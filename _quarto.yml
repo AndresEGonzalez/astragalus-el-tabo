@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Astragalus trifoliatus - El Tabo"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Mapa
+
+format:
+  html:
+    theme: cosmo
+    toc: false

@@ -1,0 +1,99 @@
+---
+title: "PRC El Tabo 2026  vs  *Astragalus trifoliatus*"
+format:
+  html:
+    theme: cosmo
+    toc: false
+    page-layout: full
+---
+
+### ¿Podremos conservar la hierba de El Tabo dentro del Santuario Dunas de la Chépica–Gota de Leche?
+
+- A continuación se presentan los registros de al menos 914 individuos de la hierba de El Tabo (*A. trifoliatus*), que han sido fotografiados y georreferenciados hasta la fecha, en superposición con las amenazas territoriales proyectadas dentro del Santuario.
+
+- Este cruce espacial permite visualizar, de manera directa, la proximidad entre las poblaciones existentes y las intervenciones propuestas.
+
+### Contexto
+
+Este mapa integra información de terreno (recabada por la **Fundación Territorio Costero**) con la planificación territorial contenida en el anteproyecto del Plan Regulador Comunal de El Tabo 2026.
+
+De este modo, se hace visible la superposición entre poblaciones de *A. trifoliatus*, especie en peligro crítico de extinción, y las vialidades proyectadas por el PRC sobre el sistema dunar.
+
+En consecuencia, esta herramienta permite identificar zonas de conflicto potencial entre conservación y desarrollo urbano.
+
+Nuestro objetivo es aportar evidencia espacial sólida, clara y accesible, que contribuya a fortalecer los procesos de conservación y a informar la toma de decisiones sobre el territorio.
+
+---
+
+<div style="border-radius:14px; overflow:hidden; box-shadow:0 6px 25px rgba(0,0,0,0.35);">
+<iframe 
+  src="mapa/mapa_web_fotos.html" 
+  width="100%" 
+  height="920px" 
+  style="border:none;">
+</iframe>
+</div>
+
+---
+
+### Interpretación del mapa
+
+<ul style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.6;">
+
+<li style="margin-bottom: 8px;">
+<span style="
+  display:inline-block;
+  width:28px;
+  height:0;
+  border-top:4px solid #1b5e20;
+  margin-right:10px;
+  vertical-align:middle;">
+</span>
+<strong>Línea verde</strong>: límite del Santuario
+</li>
+
+<li style="margin-bottom: 8px;">
+<span style="
+  display:inline-block;
+  width:8px;
+  height:8px;
+  background:#d50000;
+  border-radius:50%;
+  margin-right:12px;
+  vertical-align:middle;">
+</span>
+<strong>Puntos</strong>: registros de <i>Astragalus trifoliatus</i> **Haz click sobre el registro para ver las imágenes**
+</li>
+
+<li style="margin-bottom: 8px;">
+<span style="
+  display:inline-block;
+  width:28px;
+  height:0;
+  border-top:4px solid #ef6c00;
+  margin-right:10px;
+  vertical-align:middle;">
+</span>
+<strong>Líneas en tonos rojos y naranjas</strong>: vialidades propuestas por el PRC El Tabo 2026
+</li>
+
+<li style="margin-bottom: 8px;">
+<span style="
+  display:inline-block;
+  width:30px;
+  height:10px;
+  background:#d32f2f;
+  border-radius:10px;
+  margin-right:10px;
+  vertical-align:middle;
+  opacity:0.6;">
+</span>
+<strong>Franja roja difusa</strong>: zona de amenaza potencial (buffer de 50 m)
+</li>
+
+</ul>
+
+---
+
+
+
