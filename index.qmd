@@ -1,46 +1,27 @@
 ---
-title: "PRC El Tabo 2026  vs  *Astragalus trifoliatus*"
+title: "Distribución de la Hierba de El Tabo (*Astragalus trifoliatus*)"
 format:
   html:
     theme: cosmo
     toc: false
     page-layout: full
 ---
-
-### ¿Podremos conservar la hierba de El Tabo dentro del Santuario Dunas de la Chépica–Gota de Leche?
-
-- A continuación se presentan los registros de al menos 914 individuos de la hierba de El Tabo (*A. trifoliatus*), que han sido fotografiados y georreferenciados hasta la fecha, en superposición con las amenazas territoriales proyectadas dentro del Santuario.
-
-- Este cruce espacial permite visualizar, de manera directa, la proximidad entre las poblaciones existentes y las intervenciones propuestas.
-
-### Contexto
-
-Este mapa integra información de terreno (recabada por la **Fundación Territorio Costero**) con la planificación territorial contenida en el anteproyecto del Plan Regulador Comunal de El Tabo 2026.
-
-De este modo, se hace visible la superposición entre poblaciones de *A. trifoliatus*, especie en peligro crítico de extinción, y las vialidades proyectadas por el PRC sobre el sistema dunar.
-
-En consecuencia, esta herramienta permite identificar zonas de conflicto potencial entre conservación y desarrollo urbano.
-
-Nuestro objetivo es aportar evidencia espacial sólida, clara y accesible, que contribuya a fortalecer los procesos de conservación y a informar la toma de decisiones sobre el territorio.
-
----
-
+<small>Explora el mapa: haz clic en los puntos para ver registros y evidencia fotográfica.</small>
 <div style="border-radius:14px; overflow:hidden; box-shadow:0 6px 25px rgba(0,0,0,0.35);">
 <iframe 
-  src="mapa/mapa_web_fotos.html" 
+  src="mapa/mapa_web_fotos_inat.html" 
   width="100%" 
   height="920px" 
   style="border:none;">
 </iframe>
 </div>
 
----
 
 ### Interpretación del mapa
 
-<ul style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.6;">
+<ul style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.7;">
 
-<li style="margin-bottom: 8px;">
+<li style="margin-bottom: 10px;">
 <span style="
   display:inline-block;
   width:28px;
@@ -52,32 +33,48 @@ Nuestro objetivo es aportar evidencia espacial sólida, clara y accesible, que c
 <strong>Línea verde</strong>: límite del Santuario
 </li>
 
-<li style="margin-bottom: 8px;">
+<li style="margin-bottom: 10px;">
 <span style="
   display:inline-block;
   width:8px;
   height:8px;
   background:#d50000;
   border-radius:50%;
+  border:1.5px solid #111111;
   margin-right:12px;
   vertical-align:middle;">
 </span>
-<strong>Puntos</strong>: registros de <i>Astragalus trifoliatus</i> **Haz click sobre el registro para ver las imágenes**
+<strong>Círculos rojos</strong>: registros levantados en terreno por la Fundación Territorio Costero (<em>haz clic en un punto para ver la imagen</em>)
 </li>
 
-<li style="margin-bottom: 8px;">
+<li style="margin-bottom: 10px;">
+<span style="
+  display:inline-block;
+  width:0;
+  height:0;
+  border-left:7px solid transparent;
+  border-right:7px solid transparent;
+  border-bottom:12px solid #d50000;
+  filter: drop-shadow(0 0 0 white) drop-shadow(0 0 0.7px #111111);
+  margin-right:12px;
+  vertical-align:middle;">
+</span>
+<strong>Triángulos rojos</strong>: observaciones de iNaturalist que complementan la evidencia espacial
+</li>
+
+<li style="margin-bottom: 10px;">
 <span style="
   display:inline-block;
   width:28px;
   height:0;
-  border-top:4px solid #ef6c00;
+  border-top:4px solid #c62828;
   margin-right:10px;
   vertical-align:middle;">
 </span>
 <strong>Líneas en tonos rojos y naranjas</strong>: vialidades propuestas por el PRC El Tabo 2026
 </li>
 
-<li style="margin-bottom: 8px;">
+<li style="margin-bottom: 10px;">
 <span style="
   display:inline-block;
   width:30px;
@@ -94,6 +91,33 @@ Nuestro objetivo es aportar evidencia espacial sólida, clara y accesible, que c
 </ul>
 
 ---
+## PRC El Tabo 2026 vs *Astragalus trifoliatus*
+
+### ¿Podremos conservar la hierba de El Tabo dentro del Santuario Dunas de la Chépica–Gota de Leche?
+
+Este mapa reúne los registros georreferenciados disponibles de la hierba de El Tabo (*Astragalus trifoliatus*) y los pone en relación directa con las amenazas territoriales proyectadas dentro del Santuario.
+
+La información integra **897 individuos registrados en terreno por la Fundación Territorio Costero** y **72 observaciones adicionales provenientes de iNaturalist** (63 dentro del santuario y 9 en su entorno inmediato), alcanzando un total de **969 registros de evidencia espacial**.
+
+En conjunto, estos datos permiten observar con claridad la cercanía y en varios sectores la superposición entre las poblaciones conocidas de esta especie y las vialidades propuestas por el anteproyecto del Plan Regulador Comunal de El Tabo 2026.
+
+### Evidencia espacial del conflicto
+
+Al superponer la distribución de *Astragalus trifoliatus* con la planificación territorial propuesta, emerge un patrón claro: una especie en **peligro crítico de extinción** comparte espacio con intervenciones viales proyectadas directamente sobre el sistema dunar que constituye su hábitat.
+
+Este cruce no es abstracto. Permite identificar de forma concreta las zonas donde la conservación del Santuario podría entrar en tensión con el desarrollo urbano, haciendo visible un conflicto que de otro modo permanecería disperso o invisible.
+
+### Alcance y límites de la información
+
+Los registros de terreno de la Fundación Territorio Costero corresponden a imágenes obtenidas en **2021**, levantadas en sectores específicos del sistema dunar. Esto significa que representan evidencia directa de presencia, pero **no constituyen un censo completo de toda la población**.
+
+La gran extensión de la duna, junto con la necesidad de evitar su perturbación, hace inviable un recorrido exhaustivo sin impacto. Por ello, avanzar hacia una estimación más precisa de la abundancia poblacional requiere en el futuro un **muestreo estructurado, sistemático y de bajo impacto**.
+
+En este contexto, los registros más recientes de iNaturalist cumplen un rol clave: **complementan y actualizan la información de terreno**, reforzando la consistencia espacial del patrón observado sin necesidad de intervenir directamente nuevas áreas del sistema.
+
+### Propósito
+
+El objetivo de este mapa es aportar **evidencia espacial clara, verificable y accesible**, que permita comprender la relación entre biodiversidad y planificación territorial, y que contribuya a una toma de decisiones más informada sobre el futuro del Santuario.
 
 
-
+**Las plantas ya están ahí. La planificación propone intervenir ese mismo espacio.**
